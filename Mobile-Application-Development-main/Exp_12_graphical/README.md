@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by: Dinesh B
-Registeration Number : 212220220010
+Developed by: Gunanithi S
+Registeration Number : 212220220015
 */
 ```
 **Activity_xml File:**
