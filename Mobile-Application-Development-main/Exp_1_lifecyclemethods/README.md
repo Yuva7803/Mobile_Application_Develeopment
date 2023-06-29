@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: Gunanithi S
-Registeration Number :212220220015
+Developed by: Yuvasree K. S
+Registeration Number :212221040188
 */
 ```
 ## MainActivity.java:-
